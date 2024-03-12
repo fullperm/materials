@@ -11,3 +11,5 @@ https://ambientcg.com
 https://freepbr.com
 
 https://textures.com
+
+https://github.com/CubeIR/Vanilla-RTX
