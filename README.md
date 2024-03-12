@@ -1,4 +1,4 @@
-# textures
+# Fullperm textures for Secondlife
 
 https://publicdomaintextures.com
 
