@@ -1,4 +1,4 @@
-# Fullperm materials for Secondlife
+# Fullperm materials for Secondlife & OpenSim
 
 https://www.texturecan.com
 
